@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.example.activity.MainActivity">
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_recycler_list"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/action_recycler_list" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_recycler_grid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/action_recycler_grid" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_recycler_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/action_recycler_horizontal" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_recycler_nested"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/action_recycler_nested" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_recycler_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/action_recycler_checkbox" />
+
+</LinearLayout>

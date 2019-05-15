@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JSONDataFromFile</string>
+    <string name="action_recycler_list">Recycler List</string>
+    <string name="action_recycler_grid">Recycler Grid</string>
+    <string name="action_recycler_horizontal">Recycler Horizontal</string>
+    <string name="action_recycler_nested">Nested RecyclerView</string>
+    <string name="action_recycler_checkbox">CheckBox Handling</string>
+    <string name="more">More</string>
+    <string name="section_header">section %d</string>
+</resources>
